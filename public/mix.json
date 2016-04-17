@@ -8,8 +8,8 @@
     {
       "name": "Piano",
       "path": "sounds\/piano.mp3",
-      "gain": 0.5175,
-      "pan": -1,
+      "gain": 1.3,
+      "pan": 0,
       "muted": false,
       "_muted": false,
       "soloed": false,
@@ -18,8 +18,8 @@
     {
       "name": "Organ",
       "path": "sounds\/organ.mp3",
-      "gain": 0.5175,
-      "pan": 1,
+      "gain": 0.57,
+      "pan": 0,
       "muted": false,
       "_muted": false,
       "soloed": false,
@@ -28,7 +28,17 @@
     {
       "name": "Synth",
       "path": "sounds\/synth.mp3",
-      "gain": 0.57045454545455,
+      "gain": 0.57,
+      "pan": 0,
+      "muted": false,
+      "_muted": false,
+      "soloed": false,
+      "afl": true
+    },
+     {
+      "name": "Chord Synth",
+      "path": "sounds\/chord_synth.mp3",
+      "gain": 1.3,
       "pan": 0,
       "muted": false,
       "_muted": false,
@@ -38,7 +48,7 @@
     {
       "name": "Dubstep Chords",
       "path": "sounds\/dupstep_chords.mp3",
-      "gain": 0.38159090909091,
+      "gain": 0.57,
       "pan": 0,
       "muted": false,
       "_muted": false,
@@ -48,8 +58,8 @@
     {
       "name": "Drums",
       "path": "sounds\/drums.mp3",
-      "gain": 0.76318181818182,
-      "pan": -0.31817540662604,
+      "gain": 0.57,
+      "pan": 0,
       "muted": false,
       "_muted": false,
       "soloed": false,
@@ -58,8 +68,8 @@
     {
       "name": "Hip Hop Drums",
       "path": "sounds\/hip_hop_drums.mp3",
-      "gain": 1.1134090909091,
-      "pan": -0.16763424252422,
+      "gain": 0.57,
+      "pan": -1,
       "muted": false,
       "_muted": false,
       "soloed": false,
@@ -68,18 +78,8 @@
     {
       "name": "Hip Hop Beat",
       "path": "sounds\/hip_hop_beat.mp3",
-      "gain": 0.805,
-      "pan": 0.44667745226923,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    },
-    {
-      "name": "Chord Synth",
-      "path": "sounds\/chord_synth.mp3",
-      "gain": 0.5175,
-      "pan": -1,
+      "gain": 0.30,
+      "pan": 1,
       "muted": false,
       "_muted": false,
       "soloed": false,
