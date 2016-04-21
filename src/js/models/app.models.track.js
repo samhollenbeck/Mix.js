@@ -18,7 +18,7 @@ App.module('Models', function( Models, App, Backbone, Marionette, $, _ ) {
       // soloed
       soloed   : false,
       // internal dBFS value
-      dBFS     : -48,
+      dBFS     : 0,
       // after-fader listen
       afl      : true,
       // internally calculated track duration

@@ -8,7 +8,7 @@
     {
       "name": "Piano",
       "path": "sounds\/piano.mp3",
-      "gain": 1.3,  
+      "gain": 3,  
       "pan": 0,
       "muted": false,
       "_muted": false,
@@ -18,7 +18,7 @@
     {
       "name": "Organ",
       "path": "sounds\/organ.mp3",
-      "gain": 0.57,
+      "gain": 3,
       "pan": 0,
       "muted": false,
       "_muted": false,
@@ -28,7 +28,7 @@
     {
       "name": "Synth",
       "path": "sounds\/synth.mp3",
-      "gain": 0.57,
+      "gain": 3,
       "pan": 0,
       "muted": false,
       "_muted": false,
@@ -38,7 +38,7 @@
      {
       "name": "Chord Synth",
       "path": "sounds\/chord_synth.mp3",
-      "gain": 1.3,
+      "gain": 3,
       "pan": 0,
       "muted": false,
       "_muted": false,
@@ -48,7 +48,7 @@
     {
       "name": "Dubstep Chords",
       "path": "sounds\/dupstep_chords.mp3",
-      "gain": 0.57,
+      "gain": 3,
       "pan": 0,
       "muted": false,
       "_muted": false,
@@ -58,7 +58,7 @@
     {
       "name": "Drums",
       "path": "sounds\/drums.mp3",
-      "gain": 0.57,
+      "gain": 3,
       "pan": 0,
       "muted": false,
       "_muted": false,
@@ -68,7 +68,7 @@
     {
       "name": "Hip Hop Drums",
       "path": "sounds\/hip_hop_drums.mp3",
-      "gain": 0.57,
+      "gain": 3,
       "pan": -1,
       "muted": false,
       "_muted": false,
@@ -78,7 +78,7 @@
     {
       "name": "Hip Hop Beat",
       "path": "sounds\/hip_hop_beat.mp3",
-      "gain": 0.2,
+      "gain": 3,
       "pan": 1,
       "muted": false,
       "_muted": false,
